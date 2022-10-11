@@ -11,3 +11,7 @@ That's it. You are ready to go. To execute this project just type
 ```
 npm start
 ```
+
+![](https://github.com/tentac7on/CRUD-Project/blob/main/Screenshot%20(39).png)
+
+![](https://github.com/tentac7on/CRUD-Project/blob/main/Screenshot%20(40).png)
