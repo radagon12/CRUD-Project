@@ -1,4 +1,4 @@
-# CRUD_Application_Node
+# CRUD_Application
 Implementation of this project is done using nodeJS , MongoDB, express
 
 #### To Run this project Clone it and install modules using
